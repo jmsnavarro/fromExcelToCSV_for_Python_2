@@ -1,5 +1,5 @@
 # fromExcelToCSV_for_Python_2
-Version of fromExcelToCSV tool for Python 3 now targeted to Python 2
+Version of fromExcelToCSV tool for Python 3 now targeted to Python 2 for legacy systems.
 
 A terminal script written in Python that reads Excel rows and export to a pipe-delimited csv file.
 
